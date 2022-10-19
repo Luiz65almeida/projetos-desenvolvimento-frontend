@@ -1,0 +1,18 @@
+.centralizar {
+	text-align: center;
+}
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+	
+
+}
+.img-bio {
+	border: solid 10px #c3c3ae;
+	padding: 15px;
+
+}
+#sobre {
+	background: #e8e8d9;
+	padding: 15px;
+}
